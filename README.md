@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaylorBrysonRouse
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C++, C#, Javascipt, HTML, and CSS
+- 🌱 I’m currently learning C++, C#, .NET, Javascipt, HTML, and CSS
 
 
 <!---
