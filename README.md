@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @TaylorBrysonRouse
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C++, C#, .NET, Javascipt, HTML, and CSS
+- Hi, I’m @TaylorBrysonRouse
+- Drive Axle Team Engineer
+- Computer Information Systems major at Southern Wesleyan University
+
+“Life is like riding a bicycle. To keep your balance, you must keep moving” -Albert Einstein
+
+
 
 
 <!---
