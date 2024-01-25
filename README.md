@@ -1,6 +1,6 @@
 - Hi, I’m @TaylorBrysonRouse
 - Drive Axle Team Engineer
-- Computer Information Systems major at Southern Wesleyan University
+- Computer Information Systems graduate at Southern Wesleyan University
 
 “Life is like riding a bicycle. To keep your balance, you must keep moving” -Albert Einstein
 
